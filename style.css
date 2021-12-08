@@ -1,0 +1,15 @@
+
+.middlearea{
+    max-height: 200px !important; 
+}
+.card{
+    border: 0;
+}
+
+::placeholder{
+    text-align: center;
+    font-size: 14px;
+    color: grey;
+    background-position: 40%;
+    background-size: 6%;
+}
